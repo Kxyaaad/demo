@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; normalTitle = "相册"; ObjectID = "1ay-bJ-Vjv"; */
+"1ay-bJ-Vjv.normalTitle" = "相册";
+
+/* Class = "UITabBarItem"; title = "地图"; ObjectID = "4zY-Wx-mjU"; */
+"4zY-Wx-mjU.title" = "地图";
+
+/* Class = "UIButton"; normalTitle = "详情"; ObjectID = "8CH-wX-wxr"; */
+"8CH-wX-wxr.normalTitle" = "详情";
+
+/* Class = "UITabBarItem"; title = "更多"; ObjectID = "AYF-IK-nHq"; */
+"AYF-IK-nHq.title" = "更多";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "DgP-Xa-PnJ"; */
+"DgP-Xa-PnJ.normalTitle" = "添加";
+
+/* Class = "UITabBarItem"; title = "发现"; ObjectID = "E5O-ea-QHp"; */
+"E5O-ea-QHp.title" = "发现";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FHd-IK-gzO"; */
+"FHd-IK-gzO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "G1n-Zz-bz4"; */
+"G1n-Zz-bz4.normalTitle" = "完成";
+
+/* Class = "UIButton"; normalTitle = "搜索"; ObjectID = "HL5-Jf-zSj"; */
+"HL5-Jf-zSj.normalTitle" = "搜索";
+
+/* Class = "UITabBarItem"; title = "主页"; ObjectID = "IJL-lU-ub1"; */
+"IJL-lU-ub1.title" = "主页";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NKq-pP-Pf7"; */
+"NKq-pP-Pf7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "名称"; ObjectID = "Nz7-eU-e7w"; */
+"Nz7-eU-e7w.text" = "名称";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OjD-iB-6lB"; */
+"OjD-iB-6lB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "Ptd-Xv-JDY"; */
+"Ptd-Xv-JDY.text" = "地址";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "R0V-Lj-DPp"; */
+"R0V-Lj-DPp.text" = "Title";
+
+/* Class = "UILabel"; text = "简介"; ObjectID = "Xkb-sb-07c"; */
+"Xkb-sb-07c.text" = "简介";
+
+/* Class = "UILabel"; text = "值"; ObjectID = "Xs3-2w-os1"; */
+"Xs3-2w-os1.text" = "值";
+
+/* Class = "UITextField"; placeholder = "请输入地址"; ObjectID = "bZW-PY-svq"; */
+"bZW-PY-svq.placeholder" = "请输入地址";
+
+/* Class = "UIButton"; normalTitle = "立即体验"; ObjectID = "beP-ch-o75"; */
+"beP-ch-o75.normalTitle" = "立即体验";
+
+/* Class = "UITextField"; placeholder = "请输入地址"; ObjectID = "dVA-Kp-UAD"; */
+"dVA-Kp-UAD.placeholder" = "请输入地址";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "diB-oV-lZi"; */
+"diB-oV-lZi.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "请输入简介"; ObjectID = "eOM-Pu-Ume"; */
+"eOM-Pu-Ume.placeholder" = "请输入简介";
+
+/* Class = "UILabel"; text = "字段"; ObjectID = "ejC-sB-sqH"; */
+"ejC-sB-sqH.text" = "字段";
+
+/* Class = "UIButton"; normalTitle = "想看引导？"; ObjectID = "iqF-Rs-2jb"; */
+"iqF-Rs-2jb.normalTitle" = "想看引导？";
+
+/* Class = "UIButton"; normalTitle = "地图"; ObjectID = "mR4-lq-at0"; */
+"mR4-lq-at0.normalTitle" = "地图";
+
+/* Class = "UIButton"; normalTitle = "去百度百科？"; ObjectID = "ptB-rk-efr"; */
+"ptB-rk-efr.normalTitle" = "去百度百科？";
+
+/* Class = "UITextField"; placeholder = "请输入名称"; ObjectID = "sVX-r5-LRk"; */
+"sVX-r5-LRk.placeholder" = "请输入名称";
+
+/* Class = "UINavigationItem"; title = "主页"; ObjectID = "sjD-RB-KVr"; */
+"sjD-RB-KVr.title" = "主页";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u7o-ud-sSX"; */
+"u7o-ud-sSX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "去看看他的微博？"; ObjectID = "u9f-ub-qyx"; */
+"u9f-ub-qyx.normalTitle" = "去看看他的微博？";
+
+/* Class = "UIViewController"; title = "地图"; ObjectID = "v7h-lI-ef8"; */
+"v7h-lI-ef8.title" = "地图";

@@ -1,0 +1,5 @@
+target 'NARUTO' do
+    use_frameworks!
+    pod 'AVOSCloud'
+    pod 'IQKeyboardManagerSwift'
+end
